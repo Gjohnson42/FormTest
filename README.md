@@ -1,2 +1,2 @@
 # FormTest
-A basic windows forms messaround project
+A basic windows forms project, intended for experimenting with event handlers
